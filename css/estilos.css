@@ -12,20 +12,11 @@
 }
 
 .slogan{
-  margin-top: 6%;
-}
-
-.articulos{
-  margin-top: 2%;
-}
-
-.redes-soci{
-  background-color: rgba(0,194,255,.5);
-  border-radius: 5px
+  margin-top: 10%;
 }
 
 .redes-soci img{
-  width: 88%;
+  width: 60%;
   border-radius: 40px;
   margin-bottom: 5px;
   margin-top: 5px;
@@ -34,4 +25,28 @@
 
 .redes-soci img:hover{
   border: 5px solid white;
+}
+
+.galeria img{
+  width: 100%;
+}
+
+.img1{
+  height: 254px;
+}
+
+.img3{
+  height: 518px;
+}
+
+.img4, .img5, .img6{
+  height: 163px;
+}
+
+.card-reveal{
+  background-color: rgba(0,0,0,0.3) !important;
+}
+
+.card-reveal span.card-title{
+  color: #ffffff !important;
 }
