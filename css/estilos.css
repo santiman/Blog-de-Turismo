@@ -50,3 +50,9 @@
 .card-reveal span.card-title{
   color: #ffffff !important;
 }
+
+.img-blog{
+  float: left;
+  width: 47%;
+  padding: 15px;
+}
